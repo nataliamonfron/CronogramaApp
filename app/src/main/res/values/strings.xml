@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Convenience</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_tela_login">Não possui conta? Cadastre-se agora!</string>
+</resources>

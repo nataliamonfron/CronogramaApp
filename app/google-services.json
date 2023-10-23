@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575380288829",
+    "project_id": "cronograma-6d9c0",
+    "storage_bucket": "cronograma-6d9c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575380288829:android:7fb8abf215f836d6288154",
+        "android_client_info": {
+          "package_name": "com.example.convenience"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGFcGUYp_Bc7dxacOojICQiqcSOunrdeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
